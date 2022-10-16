@@ -1,6 +1,6 @@
 asynchronousRequest.php<?php
 
-require '../../../../vendor/autoload.php';
+require '../vendor/autoload.php';
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\RequestException;
 use GuzzleHttp\Psr7\Request;
